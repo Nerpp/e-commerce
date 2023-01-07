@@ -1,0 +1,8 @@
+https://aymeric-cucherousset.fr/importer-bootstrap-dans-symfony-6/
+
+
+#créer un admin
+symfony console make:admin:dashboard
+
+#créer un crud sur une entité
+symfony console make:admin:crud
